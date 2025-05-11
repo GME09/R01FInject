@@ -46,16 +46,7 @@ Semua pengaturan dan konfigurasi dapat dilakukan langsung dari terminal mengguna
 ✅ **Akses**: Root diperlukan  
 ✅ **Dependency**: Python3, Nginx, Apache, Xray, ssh openvpn,
 
-1. Buat Terlebih Dahulu Key Di Bot Telegram Kami
-- [ ] **Bot Telegram** [Bot](https://t.me/R01Fbot)  
-- [ ] 1. /start
-- [ ] 2. Pilih **Membuat Kunci R01FInject**
-- [ ] 3. masukan Ip VPS Yang ingin di Install tools R01FInject 
-- [ ] 4. Masukan Jumlah Hari
-- [ ] 5. Masukan Password, Bisa Di isi Bebas atau Random
-- [ ] 6. Simpan Data Tersebut Yang di kirim oleh bot
-
-2. Jalankan Cmd ini di Terminal Linux kalian
+1. Jalankan Cmd ini di Terminal Linux kalian
 - [ ] 1.
 ``` 
 curl -o start.sh -sSL https://raw.githubusercontent.com/GME09/R01FInject/main/start.sh && chmod +x start.sh && ./start.sh
@@ -69,15 +60,17 @@ source ~/.bashrc
 run install R01FInject
 ```
 
-3. Ikuti Instruksi Di dalam terminal kalian saat instalasi 
+2. Ikuti Instruksi Di dalam terminal kalian saat instalasi 
 
 ## 📜 **Status & Lisensi**  
 🔓 **Open Source** - Proyek ini gratis digunakan dan dikembangkan oleh komunitas.  
 📄 **Lisensi**: Menggunakan **MIT License**.  
 
 ## 👥 **Bergabung dengan Komunitas**  
-🔹 **Telegram**: [Groub](https://t.me/R01FGMEComunityGrub)  
-🔹 **Telegram**: [Channel](https://t.me/R01FGMEComunity)  
+- **Telegram Admin**: [@GMECoporation](https://t.me/GMECoporation)  
+- **Channel Info & Update**: [Channel Telegram](https://t.me/R01FGMEComunity)  
+- **Group Diskusi & Bantuan**: [Grub Telegram](https://t.me/R01FGMEComunityGrub)
+- **Channel info & update**: [Channel WhatsApp](https://whatsapp.com/channel/0029VagSKn95EjxuUj7yWT46)
 
 ## ☕ **Dukung Pengembangan Proyek**  
 Proyek ini dikembangkan secara gratis dan open-source. Jika kamu ingin mendukung pengembangan lebih lanjut, kamu bisa memberikan donasi melalui:  
