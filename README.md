@@ -48,8 +48,13 @@ Semua pengaturan dan konfigurasi dapat dilakukan langsung dari terminal mengguna
 
 1. Jalankan Cmd ini di Terminal Linux kalian
 - [ ] 1.
+- [ ] V1
 ``` 
 curl -o start.sh -sSL https://raw.githubusercontent.com/GME09/R01FInject/main/start.sh && chmod +x start.sh && ./start.sh
+```
+- [ ] V2
+```
+curl -o V2.sh -sSL https://raw.githubusercontent.com/GME09/R01FInject/main/V2.sh && chmod +x V2.sh && ./V2.sh
 ```
 - [ ] 2. 
 ```
